@@ -16,7 +16,7 @@
 
       <div class="login__column">
         <div class="login__box">
-          <span>아이디 찾기</span>
+          <span>아이디 찾기1</span>
           <form action="feed.html" method="post" class="login__form">
             
             <input type="text" name="username" placeholder="이름을 입력해주세요." required>
@@ -30,7 +30,7 @@
         </div>
         <div class="login__box">
           <span class="login__text">
-            다른 궁금한 점이 있으신가요? <br />
+            다른 궁금한 점이 있으신가요?? <br />
           </span>
           &nbsp;
           <a class="login__blue-link" href="#">고객센터</a>

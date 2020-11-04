@@ -25,7 +25,7 @@
 		if(document.userInfo.password.value != document.userInfo.checkPassword.value ){
 			
 			alert("비밀번호를 동일하게 입력하세요.");
-			alert("메인화면으로 돌아갑니다.!");
+			alert("메인화면으로 돌아갑니다.");
 			return false;
 		}
 

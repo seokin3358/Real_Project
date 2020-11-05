@@ -30,7 +30,7 @@
         </div>
         <div class="login__box">
           <span class="login__text">
-            다른 궁금한 점이 있으신가요?? <br />
+            다른 궁금한 점이 있으신가요??? <br />
           </span>
           &nbsp;
           <a class="login__blue-link" href="#">고객센터</a>
